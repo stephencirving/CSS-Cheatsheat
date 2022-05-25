@@ -8,6 +8,6 @@ body {
   color: white;
 }
 
-h1, img {
+h1, img, #first-h2 {
   text-align: center;
 }
