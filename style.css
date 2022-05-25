@@ -2,17 +2,11 @@ body {
   background-color: #004E89;
   padding: 50px 60px;
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
   max-width: 800px;
   margin: auto;
-  color: white;
 }
 
-p, li, ul.li, h2 {
-  text-align: left;
-}
-
-#first-h2 {
+h1 {
   text-align: center;
 }
-
