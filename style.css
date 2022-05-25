@@ -3,6 +3,8 @@ body {
   padding: 50px 60px;
   font-family: sans-serif;
   text-align: center;
+  max-width: 800px;
+  margin: auto;
 }
 
 p, li, ul.li, h2 {
