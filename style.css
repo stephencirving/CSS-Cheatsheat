@@ -12,3 +12,8 @@ p, li, ul.li, h2 {
 h1, h2 {
  color: FFFFFF; 
 }
+
+first-h2 {
+  text-align: center;
+}
+
