@@ -1,5 +1,5 @@
 body {
-  background-color: #white;
+  background-color: #004E89;
   padding: 50px 60px;
   font-family: sans-serif;
   text-align: center;
@@ -7,11 +7,11 @@ body {
 
 p, li, ul.li, h2 {
   text-align: left;
-  color: #004E89;
+  color: white;
 }
 
 h1, h2 {
- color: #004E89; 
+ color: white;
 }
 
 #first-h2 {
